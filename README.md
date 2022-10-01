@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **OOP and Web3 programming.**
 
-- 📫 How to reach me **s.gurbuz2020@gtu.edu.tr**
+- 📫 You can reach me via this e-mail: **s.gurbuz2020@gtu.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
