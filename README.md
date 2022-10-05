@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a simple battle game with Java.**
 
-- 🌱 I’m currently learning **OOP and Web3 programming.**
+- 🌱 I’m currently learning **CPP, Java, and Web3 programming.**
 
 - 📫 You can reach me via this e-mail: **s.gurbuz2020@gtu.edu.tr**
 
