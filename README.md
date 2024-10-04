@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeynep Gürbüz.</h1>
-<h3 align="center">A second year computer engineering student at GTU</h3>
+<h3 align="center">A senior computer engineering student at GTU</h3>
 
 - 🔭 I’m currently working on **a simple battle game with Java.**
 
