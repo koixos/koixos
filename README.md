@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zeynep Gürbüz.</h1>
-<h3 align="center">A senior computer engineering student at GTU</h3>
+<h3 align="center">A senior computer engineering student at Gebze Technical University.</h3>
 
-- 🔭 I’m currently working on **a simple battle game with Java.**
+- 🔭 I’m currently working on **Augmented Reality Development in Unity 3D.**
 
-- 🌱 I’m currently learning **CPP, Java, and Web3 programming.**
+- 💻 I do **full-stack development for both web and mobile** platforms. 
 
-- 📫 You can reach me via this e-mail: **s.gurbuz2020@gtu.edu.tr**
+- 🌱 I’m experienced in **C/CPP, C#, Java, ASP.NET, React, Flutter, MSSQL, Python, and Lisp.**
+
+- 📫 You can reach me via this e-mail: **koioszey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
