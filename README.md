@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zeynep Gürbüz.</h1>
-<h3 align="center">A senior computer engineering student at Gebze Technical University.</h3>
+<h1 align="center">Hi 👋, I'm Zeynep.</h1>
+<h3 align="center">Senior computer engineering student at Gebze Technical University.</h3>
 
 - 🔭 I’m currently working on **Augmented Reality Development in Unity 3D.**
 
 - 💻 I do **full-stack development for both web and mobile** platforms. 
 
-- 🌱 I’m experienced in **C/CPP, C#, Java, ASP.NET, React, Flutter, MSSQL, Python, and Lisp.**
+- 🌱 I’m experienced in **C/C++, C#, Java, ASP.NET, React, Flutter, MSSQL, Python, and Lisp.**
 
 - 📫 You can reach me via this e-mail: **koioszey@gmail.com**
 
