@@ -7,7 +7,7 @@
 
 - 🌱 I’m experienced in **C/C++, C#, Java, ASP.NET, React, Flutter, MSSQL, Python, and Lisp.**
 
-- 📫 You can reach me via this e-mail: **koioszey@gmail.com**
+- 📫 You can reach me via this e-mail: **gurbuz.s.zeynep02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
