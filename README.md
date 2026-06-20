@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zeynep.</h1>
-<h3 align="center">Senior computer engineering student at Gebze Technical University.</h3>
+<h1 align="center">Hi there👋, I'm Zeynep.</h1>
+<h3 align="center">Junior Computer Engineer interested in Quantum Computing, System and Simulation Development</h3>
 
-- 🔭 I’m currently working on **Augmented Reality Development in Unity 3D.**
+- 🌱 I’m experienced in **C/C++, C#, Java, ASP.NET, React, Flutter, MSSQL, Qiskit, and Modelio.**
 
-- 💻 I do **full-stack development for both web and mobile** platforms. 
-
-- 🌱 I’m experienced in **C/C++, C#, Java, ASP.NET, React, Flutter, MSSQL, Python, and Lisp.**
-
-- 📫 You can reach me via this e-mail: **gurbuz.s.zeynep02@gmail.com**
+- 📫 You can reach me via this e-mail: **ggurbuz.zeynep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
