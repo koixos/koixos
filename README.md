@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Zeynep.</h1>
 <h3 align="center">Junior Computer Engineer interested in Quantum Computing, System and Simulation Development</h3>
 
-- 🌱 I’m experienced in **C/C++, C#, Java, ASP.NET, React, Flutter, MSSQL, Qiskit, and Modelio.**
+- currently developing an engine to create my own minecraft (literally my **biggest** dream) - though idk how long i can stay engaged in...
 
 - 📫 You can reach me via this e-mail: **ggurbuz.zeynep@gmail.com**
 
