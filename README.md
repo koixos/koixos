@@ -3,7 +3,7 @@
 
 - currently developing an engine to create my own minecraft (literally my **biggest** dream) - though idk how long i can stay engaged in...
 
-- 📫 You can reach me via this e-mail: **ggurbuz.zeynep@gmail.com**
+- reach me via this e-mail: **ggurbuz.zeynep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
